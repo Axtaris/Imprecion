@@ -48,7 +48,7 @@ public class About extends javax.swing.JDialog {
 
         jLabel2.setText("Version: ");
 
-        jLabel3.setText("Beta 1.2.1");
+        jLabel3.setText("Beta 1.2.2");
 
         jLabel4.setText("Diego fernando Cardozo");
 
